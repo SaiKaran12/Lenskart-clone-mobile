@@ -1,5 +1,5 @@
 
-alert("this website is only for mobile view");
+alert("this website (clone) is only for mobile view");
 let bu2=document.querySelector(".hlnavv");
 let bu=document.querySelector(".hlnav");
 let tab=document.querySelector(".taab")
