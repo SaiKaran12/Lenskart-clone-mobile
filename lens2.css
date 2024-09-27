@@ -132,7 +132,7 @@ body{
 .dtitle{
   height:60px;
   width:100%;
-  background-color: red;
+  background-color: #eeeeee;
   color:black;
   font-size: 30px;
   font-family: Montserrat;
@@ -179,20 +179,20 @@ body{
   margin-right:1.86%;
   height:117px;
   width:21.25%;
-  background-color: red;
+  background-color: #eeeeee;
   background-size: cover;
   
 }
 .sear{
   height:100%;
   width:12%;
-  background-color: red;
+  background-color: #eeeeee;
   background-size: cover;
 }
 .sear3{
   height:100%;
   width:12%;
-  background-color: red;
+  background-color: #eeeeee;
   background-size: cover;
 }
 .sear2{
