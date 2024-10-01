@@ -1,5 +1,5 @@
 
-alert("this website (clone) is only for mobile view please TURN OFF DESKTOP VIEW");
+alert("this website (clone) is only for MOBILE VIEW please TURN OFF DESKTOP VIEW");
 let bu2=document.querySelector(".hlnavv");
 let bu=document.querySelector(".hlnav");
 let tab=document.querySelector(".taab")
